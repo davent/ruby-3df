@@ -1,0 +1,12 @@
+Header:
+=======
+
+||	name	||	size	||	default		||	Description	||
+|   body_offset	|       2 	|       1024		|			|
+|   x_min	|	2	|			|			|
+|   x_max	|	2	|			|			|
+|   z_min	|	2	|			|			|
+|   z_max	|	2	|			|			|
+|   y_min	|	2	|			|			|
+|   y_max	|	2	|			|			|
+| payload_class |	64	|			|			|
