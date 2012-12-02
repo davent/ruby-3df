@@ -3,7 +3,7 @@
 lib = File.expand_path('../lib/', __FILE__)
 $:.unshift lib unless $:.include?(lib)
 
-require '3df'
+require 'ruby-3df'
 
 Gem::Specification.new do |s|
   s.summary = "3D File"
